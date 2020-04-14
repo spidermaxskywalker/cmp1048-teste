@@ -6,6 +6,10 @@ using namespace std;
 
 int main()
 {
+    cout << "*****************************\n";
+    cout << "* Programas das aulas extra *\n";
+    cout << "*****************************\n";
+
     declaracao_variaveis_referencias();
 
     ponteiros();
