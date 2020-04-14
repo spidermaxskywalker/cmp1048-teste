@@ -8,7 +8,7 @@ int main()
 {
     cout << "*****************************\n";
     cout << "* Programas das aulas extra *\n";
-    cout << "*****************************\n";
+    cout << "+---------------------------+\n";
 
     declaracao_variaveis_referencias();
 
